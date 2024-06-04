@@ -66,8 +66,12 @@ main {
     width: 272px;
 }
 
-footer ul {
+footer{
     background-color: #dde1e5;
+}
+
+footer ul {
+    
     display: flex;
     list-style-type: none;
     font-size: 15px;
