@@ -21,6 +21,10 @@ Evidencia, capturas de pantalla, el link al proyecto.
 Descripción del proyecto, cómo se contruyó.
 -->
 
+Descripción:
+
+![Clon de google](google.png)
+
 
 <!-- 
 Listan las herramientas: ej (HTML, CSS, JS, Bootstrap, Typewriter JS)
