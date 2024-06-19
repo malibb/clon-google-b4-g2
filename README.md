@@ -23,7 +23,7 @@ Descripción del proyecto, cómo se contruyó.
 
 Descripción:
 
-![Clon de google](google.png)
+![Clon de google](imagenes/google.png)
 
 
 <!-- 
