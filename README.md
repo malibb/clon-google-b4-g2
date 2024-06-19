@@ -14,7 +14,7 @@ Evidencia, capturas de pantalla, el link al proyecto.
 
 ### Evidencia
 
-[Link al proyecto: google-mali-clon.netlify.app](google-mali-clon.netlify.app)
+[Link al proyecto: google-mali-clon.netlify.app](https://google-mali-clon.netlify.app/)
 
 
 <!-- 
